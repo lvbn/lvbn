@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-<p align="center">
-![image](https://github.com/lvbn/lvbn/assets/65773848/d88c4f07-43d9-45d8-83ba-9c8e6c690b8a)
-  
+![profile](https://github.com/lvbn/lvbn/assets/65773848/313fa3e6-74f0-4115-b730-eeb6b386e4e4)
+<p align="center"> 
 <a href="https://www.linkedin.com/in/luiz-victorio"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 
