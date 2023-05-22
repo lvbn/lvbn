@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-## About me
+### About me
 ℹ️ I am a fast learner and a driven developer, who likes to learn new technologies and apply them to design creative and powerful products.
 
 ❤️ I have a crush on UI/UX
