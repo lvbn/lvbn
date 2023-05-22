@@ -2,8 +2,11 @@
 
 ## About me
 ℹ️ I am a fast learner and a driven developer, who likes to learn new technologies and apply them to design creative and powerful products.
+
 ❤️ I have a crush on UI/UX
+
 🌆 Long walks exploring new cities is the best hobby ever. 🌎 Geography impresses me with the way it shapes the world - physically and socially - and I keep myself always looking for a broader view of the world.
+
 📫 You can find me here:
 
 <p align="center"> 
