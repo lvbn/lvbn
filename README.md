@@ -2,8 +2,6 @@
 
 <p align="center"> 
   
-<img src="https://github.com/lvbn/lvbn/assets/65773848/668280eb-cbbd-4fcb-ba1e-3acea39a45a4" border-radius="50%" title="React" alt="React" width="80" height="80"/>&nbsp;
-  
 <a href="https://www.linkedin.com/in/luiz-victorio"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 
