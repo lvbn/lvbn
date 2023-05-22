@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-<p align="center"> 
+<div align-items="center"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   
 <a href="https://www.linkedin.com/in/luiz-victorio"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-</p>
+</div>
 
 ### 🛠 &nbsp;Languages and Tools :
 
