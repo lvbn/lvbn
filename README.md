@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-![profile](https://github.com/lvbn/lvbn/assets/65773848/313fa3e6-74f0-4115-b730-eeb6b386e4e4)
 <p align="center"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 <a href="https://www.linkedin.com/in/luiz-victorio"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 
