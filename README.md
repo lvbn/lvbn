@@ -19,7 +19,7 @@
 ### 🛠 &nbsp;Languages and Tools :
 
 <p>
-![image](https://github.com/lvbn/lvbn/assets/65773848/94bfe07d-d2b0-4db9-a5b7-566b98389188)
+<img src="https://github.com/lvbn/lvbn/assets/65773848/94bfe07d-d2b0-4db9-a5b7-566b98389188" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="JQuery" **alt="JQuery" width="40" height="40"/>&nbsp;
