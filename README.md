@@ -5,7 +5,7 @@
 
 ❤️ I have a crush on UI/UX
 
-🌆 Long walks exploring new cities is the best hobby ever. 🌎 Geography impresses me with the way it shapes the world - physically and socially - and I keep myself always looking for a broader view of the world.
+🌆 Long walks exploring new cities is the best hobby ever. 🏔️ Geography impresses me for the way it shapes the world - physically and socially. 🌎 I keep myself always looking for a broader view of the world.
 
 📫 You can find me here:
 
